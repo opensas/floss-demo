@@ -1,20 +1,30 @@
 #!/usr/bin/env python
 # coding=UTF-8
 
-# declaramos librerías que vamos a utilizar
-from translate import translate
-from argparse import ArgumentParser
+# floss-demo
+# ==========
+# 
+# Script de ejemplo para explicar los principios del software librerías
+# 
+# Utilidad de línea de comandos para traducir una frase
+# del castellano al idioma inglés
+# 
+# versión 1.0
+# 
+
+# declaramos librerías a utilizar
+from traductor_lib import traducir
 
 # funciones varias
 # 
 
-# lee los parámetros de la línea de comandos
+# leemos los parámetros de la línea de comandos
 def leer_parametros():
+  from argparse import ArgumentParser
   parser = ArgumentParser(description='Permite traducir una frase del castellano al inglés.')
   parser.add_argument('frase', metavar='frase', help='frase a traducir')
   args = parser.parse_args()
   return args.frase
-
 
 # programa principal
 # 
@@ -23,7 +33,7 @@ def leer_parametros():
 frase = leer_parametros()
 
 # traducimos la frase
-frase_traducida = translate("es", "en", frase)
+frase_traducida = traducir("es", "en", frase)
 
 # imprimimos la frase traducida
 print frase_traducida
