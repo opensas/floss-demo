@@ -1,0 +1,40 @@
+# traductor v1.0
+# Utilidad de línea de comandos para traducir frases del castellano al inglés
+# Copyright (C) 2012, BigBrother Software Corporation
+
+Traductor es una utilidad de línea de comandos que le permite traducir frases del idioma castellano al idioma inglés.
+
+1. Instalación
+
+Para ejecutar el programa deberá contar con el intérprete Python 2.7.3 o superior (puede obtenerlo en http://www.python.org/download/)
+
+Luego deberá copiar el siguiente archivo:
+
+priv-translate
+
+En algún lugar disponible para ser ejecutados por el usuario.
+
+2. Uso
+
+Para usar el sistema, ingrese
+
+    priv-translate "frase en español a ser traducida al inglés"
+
+Y obtendrá la siguiente salida
+
+    phrase in Spanish to be translated into English
+
+Para obtener una ayuda en línea simplemente ingrese
+
+    priv-translate -h
+
+Y obtendrá la siguiente pantalla de ayuda
+
+    usage: priv-translate.py [-h] frase
+
+    Permite traducir una frase del castellano al inglés.
+
+    positional arguments:
+      frase       frase a traducir (entre comillas)
+    optional arguments:
+      -h, --help  show this help message and exit

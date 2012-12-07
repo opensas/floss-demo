@@ -13,3 +13,4 @@ mv tmp/dist/priv-translate dist
 rm -fr tmp
 
 cp documentos/licencia.pdf dist
+cp documentos/leame.txt dist
