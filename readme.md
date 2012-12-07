@@ -1,18 +1,8 @@
+floss-demo
+==========
 
-para probar el script
+El presente proyecto forma parte del "Taller práctica de Software Libre", que tiene por objeto difundir entre personas sin conocimientos técnicos en informática, las ventajas del uso de software libre.
 
-python traductor.py "Este es un buen día para desarrollar software libre"
+Para ello hemos creado un requerimiento ficticio: un aplicativo de línea de comandos que permita traducir una frase del idioma castellano al idioma inglés.
 
-This is a good day for developing free software
-
-o también
-
-chmod +x traductor.py
-
-./traductor.py "Este es un buen día para desarrollar software libre"
-
-Notas:
-
-Para forzar la compilación de los archivos
-
-python -m compileall .
+Dicho requerimiento será llevado a cabo con una empresa que desarrollará una solución privativa (disponible en privativo) y otra empresa que llevará adelante el mismo requerimiento desarrollando una solución libre (disponible en libre).
