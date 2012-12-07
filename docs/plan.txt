@@ -1,0 +1,48 @@
+plan para el taller
+
+0. explicar de qué se trata el taller
+
+introduccion al sw libre
+
+cubrir todas las etapas de un requerimiento ficticio
+
+- implementado con sw privativo
+
+- implementado cn sw libre
+
+relevar conocimientos del auditorio respecto
+a las distintas etapas de un requerimiento
+
+--
+
+1. introducción al sw libre
+
+1.1 las 4 libertades basicas
+
+1.2 demistificando el software libre
+
+ejemplos de uso
+
+1.3 conclusion
+
+2 requerimiento ficticio
+
+3. sw privativo
+
+3.1 estimación de costos y tiempos
+3.2 compra
+3.3 control de avance
+3.4 entregables
+3.5 control del producto
+3.6 licencia
+3.7 requerimiento: nueva funcionalidad
+
+4. sw libre
+
+4.1 estimación de costos y tiempos
+4.2 compra
+4.3 control de avance
+4.4 entregables
+4.5 control del producto
+4.6 licencia
+4.7 requerimiento: nueva funcionalidad
