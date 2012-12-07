@@ -1,0 +1,108 @@
+CONTRATO DE LICENCIA PARA EL USUARIO FINAL
+
+PRIV-TRANSLATE, Versión 1.0
+
+IMPORTANTE. LEA DETENIDAMENTE: Este Contrato de Licencia para el Usuario Final
+(“CLUF”) es un contrato vinculante entre Usted (sea persona física o jurídica) y BigBrother Software Corporation (“BigBrother”) respecto al software de BigBrother que acompaña a este
+CLUF, que incluye software informático y puede incluir soportes físicos asociados, materiales impresos y documentación “on line“ o electrónica y servicios basados en Internet (“Software“). Una modificación o anexo a este CLUF puede acompañar al Software. AL INSTALAR, COPIAR O DE OTRA MANERA UTILIZAR EL SOFTWARE, USTED ACEPTA QUEDAR OBLIGADO POR LOS TÉRMINOS DE ESTE CLUF. SI USTED NO ACEPTA DICHOS TÉRMINOS, ENTONCES NO INSTALE, COPIE NI USE EL SOFTWARE; DEVUÉLVALO AL LUGAR DONDE LO ADQUIRIÓ, SI PROCEDE, A LOS EFECTOS DE OBTENER UN REEMBOLSO TOTAL DEL IMPORTE PAGADO.
+
+1.
+OTORGAMIENTO DE LICENCIA. BigBrother le concede a Usted los siguientes derechos,
+siempre y cuando Usted cumpla todos los términos y condiciones de este CLUF:
+
+1.1
+Instalación y uso. Usted puede instalar, utilizar, tener acceso a, presentar y
+ejecutar UNA copia del Software en UN único equipo, como una estación de trabajo, terminal u otro dispositivo (“Equipo Estación de Trabajo”). El Software no se puede utilizar en más de dos (2) procesadores a la vez en un solo Equipo Estación de Trabajo.
+
+1.2
+Activación obligatoria. Los derechos de licencia concedidos en el presente
+CLUF están limitados a los treinta (30) primeros días después de instalar por primera vez el
+Software.
+
+Quizás tenga que volver a activar el Software si cambia el hardware del equipo o modifica el
+Software. Este Software dispone de medidas tecnológicas diseñadas para impedir el uso sin
+licencia del mismo. BigBrother hará uso de dichas medidas para confirmar que Usted dispone de
+una copia con licencia legal del Software. En el caso de que Usted no estuviere utilizando una copia con licencia del Software, no se le permitirá instalar el Software ni actualizaciones futuras del mismo. 
+
+1.3
+Conexiones desde servicios. Este software sólo podrá ser utilizado desde la consola de comandos por el usuario final. Su uso desde programas o servicios se encuentra restringido por esta licencia. Para tales fines deberá obtener una licencia para su uso como servicio de sistema o acceso programático.
+
+1.5
+Almacenamiento y uso en red. Usted también puede almacenar o instalar una copia del Software en un dispositivo de almacenamiento, por ejemplo un servidor de red, que se utilice únicamente para instalar o ejecutar el Software en sus otros Equipos Estación de Trabajo a
+través de una red interna; sin embargo, Usted tiene que adquirir y aplicar una licencia adicional por cada Equipo Estación de Trabajo independiente en el que o desde el que se instale, se utilice,
+se tenga acceso a, se presente o se ejecute el Software.
+
+2.
+SERVICIOS AUTOMÁTICOS BASADOS EN INTERNET. El presente Software
+está habilitado de forma predeterminada para conectarse a través de Internet a los sistemas informáticos de BigBrother automáticamente a fin de recabar la información necesaria para asegurar un correcto funcionamiento, sin que usted reciba un aviso específico. Usted consiente el funcionamiento de esta característica.
+
+3.
+RESERVA DE DERECHOS Y PROPIEDAD. BigBrother se reserva todos los derechos que no
+se le conceden expresamente a Usted en este CLUF. El Software está protegido por los derechos de propiedad intelectual y por otras leyes y tratados en materia de propiedad intelectual e industrial. La titularidad, los derechos de autor y los demás derechos de propiedad intelectual e industrial con respecto al Software pertenecen a BigBrother o a sus proveedores. El Software se otorga bajo licencia y no es objeto de venta.
+
+4.
+LIMITACIONES EN MATERIA DE INGENIERÍA INVERSA, DESCOMPILACIÓN Y DESENSAMBLAJE. Usted no podrá utilizar técnicas de ingeniería inversa, descompilar ni desensamblar el Software, excepto y únicamente en la medida en que dicha actividad esté expresamente permitida por la legislación aplicable a pesar de la presente limitación.
+
+5.
+PROHIBICIÓN DE ALQUILER Y DE ALOJAMIENTO COMERCIAL. Usted no podrá dar el Software en alquiler, arrendamiento o préstamo, así como tampoco proporcionar servicios de alojamiento comercial con el Software.
+
+6.
+ACTUALIZACIONES. Para utilizar un Software identificado como una actualización, debe
+tener antes una licencia para el software identificado por BigBrother como apto para la actualización. Tras la actualización, Usted ya no podrá utilizar el software que sirvió de base para la actualización.
+
+7.
+SOFTWARE NO PARA REVENTA. El Software que se identifique como “No Para Reventa”,
+o “NPR” (o "Not for Resale" o "NFR"), no se podrá revender o de otra manera transferir a cambio de contraprestación ni utilizar con un fin distinto al de demostración, prueba o evaluación.
+
+8.
+RESTRICCIONES EN MATERIA DE EXPORTACIONES. Usted reconoce que el Software está sujeto a la jurisdicción de EE.UU. en materia de exportaciones. Usted se compromete a cumplir todas las leyes internacionales y nacionales aplicables al Software, incluidas las Normas de la Administración de Exportaciones de EE.UU. (U.S. Export Administration Regulations), así como las restricciones de usuario final, uso final y destino aprobadas por las autoridades de exportación de EE.UU. y de otros gobiernos.
+
+9.
+JUSTIFICANTE DE LICENCIA PARA EL USUARIO FINAL. Si adquirió el Software en un disco compacto u otro soporte físico, una etiqueta “Justificante de Licencia“ (“Proof of License”) genuina de BigBrother que acompaña a una copia original del software identifica una copia con licencia del Software. Para que la etiqueta sea válida, tiene que aparecer sobre el paquete de software de BigBrother.
+
+Si recibe la etiqueta por separado, no es válida. Usted debe conservar el paquete con la etiqueta a fin de justificar que tiene licencia para utilizar el Software.
+
+14.
+TRANSFERENCIA DEL SOFTWARE. Interna. Usted puede trasladar el Software a otro Equipo Estación de Trabajo. Después del traslado, Usted deberá eliminar por completo el Software del
+Equipo Estación de Trabajo anterior. 
+
+15.
+RESOLUCIÓN. Sin perjuicio de cualquier otro derecho, BigBrother podrá resolver inmediatamente el presente CLUF en caso de que Usted incumpla los términos y condiciones del mismo. En dicho caso, Usted deberá destruir todas las copias del Software y de todos sus componentes.
+
+Garantía de BigBrother
+
+Garantía – 
+
+Usted acepta que ningún Producto está libre de errores, y le recomendamos vivamente que haga copias de seguridad de sus archivos con regularidad. 
+
+Siempre que Usted tenga una licencia válida, BigBrother le garantiza que 
+
+a) durante el periodo de 90 días siguientes a la fecha en que Usted reciba el Producto o durante el periodo mínimo exigido por la ley aplicable, el Producto funcionará
+sustancialmente de conformidad con los materiales escritos que lo acompañan; y 
+
+b) cualquier servicio de soporte prestado por BigBrother será prestado sustancialmente como
+se describa en los correspondientes materiales escritos que le facilite BigBrother, y los
+ingenieros de soporte de BigBrother emplearán su esfuerzo y diligencia razonables para
+solucionar cualquier problema. 
+
+En el caso de que el Producto no cumpla con esta garantía,
+BigBrother se compromete a (i) reparar o sustituir el Producto gratuitamente, o bien (ii)
+devolverle el precio que Usted pagó. Esta garantía será ineficaz si el fallo del Producto es
+resultado de un accidente, abuso o utilización incorrecta por parte de Usted Cualquier
+Producto entregado en sustitución de otro estará garantizado durante el tiempo restante
+del periodo de garantía del Producto sustituido o, al menos, durante un periodo de 30 días.
+Exclusión de cualesquiera otras garantías – 
+
+Sin perjuicio de la garantía anterior, BigBrother excluye todas las garantías, condiciones y otros términos, ya sean expresos, tácitos o implícitos (por normas dispositivas o la jurisprudencia, por analogía o de cualquier otro modo), tanto verbales como escritos, incluyendo entre otras las garantías implícitas de calidad satisfactoria e idoneidad para una finalidad particular, respecto del Producto y los materiales escritos que acompañan al Producto. Aquellas garantías implícitas que no puedan ser excluidas, tendrá la duración mínima exigida por la ley aplicable o, al menos, una duración de 90 días.
+
+Limitación de responsabilidad 
+
+Sin perjuicio de lo previsto en la Garantía de BigBrother, así como de los supuestos en que la ley aplicable prohíbe la exclusión de responsabilidad por daños, BigBrother y sus proveedores no serán responsables por los daños de cualquier naturaleza, salvo por dolo o negligencia grave, (incluyendo, entre otros, los daños por lucro comercial cesante, interrupción de negocio, pérdida de información comercial u otra pérdida económica) que se deriven del uso o imposibilidad de uso del Producto. En cualquier caso, la responsabilidad total de BigBrother derivada de cualquier disposición del presente Contrato se limitará al importe que Usted haya pagado efectivamente por el Producto.
+
+Derecho aplicable. – El presente Contrato se regirá por las leyes del Estado de Washington
+(Estados Unidos de América), salvo que Usted haya adquirido este Producto Software en la
+Unión Europea, Islandia, Noruega o Suiza, en cuyo caso se aplicarán las leyes del país en que
+Usted haya adquirido el Producto Software.
+
+Si Usted tiene cualquier duda en relación con este CLUF o desea ponerse en contacto con
+BigBrother por cualquier otra razón, por favor, utilice la información sobre direcciones que se adjunta con este producto para ponerse en contacto con la filial de BigBrother que atiende a su país.
