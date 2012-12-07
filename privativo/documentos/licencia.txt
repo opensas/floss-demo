@@ -3,8 +3,7 @@ CONTRATO DE LICENCIA PARA EL USUARIO FINAL
 PRIV-TRANSLATE, Versión 1.0
 
 IMPORTANTE. LEA DETENIDAMENTE: Este Contrato de Licencia para el Usuario Final
-(“CLUF”) es un contrato vinculante entre Usted (sea persona física o jurídica) y BigBrother Software Corporation (“BigBrother”) respecto al software de BigBrother que acompaña a este
-CLUF, que incluye software informático y puede incluir soportes físicos asociados, materiales impresos y documentación “on line“ o electrónica y servicios basados en Internet (“Software“).
+(“CLUF”) es un contrato vinculante entre Usted (sea persona física o jurídica) y BigBrother Software Corporation (“BigBrother”) respecto al software de BigBrother que acompaña a este CLUF, que incluye software informático y puede incluir soportes físicos asociados, materiales impresos y documentación “on line“ o electrónica y servicios basados en Internet (“Software“).
 
 AL INSTALAR, COPIAR O DE OTRA MANERA UTILIZAR EL SOFTWARE, USTED ACEPTA QUEDAR OBLIGADO POR LOS TÉRMINOS DE ESTE CLUF. SI USTED NO ACEPTA DICHOS TÉRMINOS, ENTONCES NO INSTALE, COPIE NI USE EL SOFTWARE; DEVUÉLVALO AL LUGAR DONDE LO ADQUIRIÓ, SI PROCEDE, A LOS EFECTOS DE OBTENER UN REEMBOLSO TOTAL DEL IMPORTE PAGADO.
 

@@ -12,4 +12,4 @@ cd ..
 mv tmp/dist/priv-translate dist
 rm -fr tmp
 
-cp licencia/licencia.txt dist
+cp documentos/licencia.pdf dist
