@@ -1,0 +1,6 @@
+echo $@
+
+# COMMAND="python traductor.py \"$@\""
+# echo $COMMAND
+
+python traductor.py "$@"
