@@ -1,0 +1,15 @@
+rm -fr tmp
+mkdir tmp
+
+rm -fr dist
+mkdir dist
+
+cd tmp
+../tools/pyinstaller-2.0/pyinstaller.py --onefile ../src/priv-translate.py
+
+cd ..
+
+mv tmp/dist/priv-translate dist
+rm -fr tmp
+
+cp licencia/licencia.txt dist
