@@ -5,7 +5,7 @@
 # Librería para utilizar el servicio web de http://mymemory.translated.net
 # Copyright (C) 2010, 2011, 2012, Sebastián Scarano, @develsas
 
-# Este programa es software libre: usted puede redistribuirlo y/o modificarlo 
+# traductor_lib es software libre: usted puede redistribuirlo y/o modificarlo 
 # bajo los términos de la Licencia Pública General GNU publicada 
 # por la Fundación para el Software Libre, ya sea la versión 3 
 # de la Licencia, o (a su elección) cualquier versión posterior.

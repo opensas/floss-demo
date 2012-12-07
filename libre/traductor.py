@@ -2,14 +2,16 @@
 # coding=UTF-8
 
 # traductor v1.0
-# Librería para utilizar el servicio web de http://mymemory.translated.net
+# Utilidad de línea de comandos para traducir frases del castellano al inglés
 # Copyright (C) 2012, Graciela Defeo, gdefeo@gmail.com
 # Código disponible en https://github.com/opensas/floss-demo
 
 # traductor_lib v3.5
+# Librería para utilizar el servicio web de http://mymemory.translated.net
 # Copyright (C) 2010, 2011, 2012, Sebastián Scarano, @develsas
+# Código disponible en https://github.com/xxx/traductor_lib
 
-# traductor_lib es software libre: usted puede redistribuirlo y/o modificarlo 
+# traductor es software libre: usted puede redistribuirlo y/o modificarlo 
 # bajo los términos de la Licencia Pública General GNU publicada 
 # por la Fundación para el Software Libre, ya sea la versión 3 
 # de la Licencia, o (a su elección) cualquier versión posterior.
