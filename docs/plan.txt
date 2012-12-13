@@ -1,3 +1,10 @@
+notas:
+
+obama publica software libre
+https://github.com/opengovplatform/opengovplatform-DMS/tree/master/webapp/core
+
+--
+
 plan para el taller
 
 0. explicar de qué se trata el taller
@@ -32,9 +39,7 @@ ejemplos de uso
 3. sw privativo - CAJA NEGRA
 
 3.1 estimación de costos y tiempos
-3.2 compra
-3.3 desarrollo
-3.4 control de avance
+3.3 desarrollo y control de avance
 3.5 entregables
 3.6 control del producto
 3.7 licencia

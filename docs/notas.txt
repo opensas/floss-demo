@@ -1,0 +1,4 @@
+notas:
+
+obama publica software libre
+https://github.com/opengovplatform/opengovplatform-DMS/tree/master/webapp/core
