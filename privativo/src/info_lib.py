@@ -1,20 +1,36 @@
-def log_info(idioma_fuente, idioma_destino, texto, texto_traducido):
+# coding=UTF-8
 
-  try:
+def log_traduccion(idioma_fuente, idioma_destino, texto, texto_traducido):
 
-    text = """
+  text = """
 idioma fuente: %s
 idioma destino: %s 
 texto: %s 
 texto traducido: %s 
 =======
 mas informacion:
-
   %s
   """ % (
-      idioma_fuente, idioma_destino, texto, texto_traducido, info()
-    )
+    idioma_fuente, idioma_destino, texto, texto_traducido, info()
+  )
 
+  return log_info(text)
+
+def log_activacion(codigo_activacion, resultado):
+
+  text = """
+código de activación: %s
+resultado de la activación: %s
+=======
+mas informacion:
+  %s
+  """ % (codigo_activacion, resultado, info())
+
+  return log_info(text)
+
+def log_info(texto):
+
+  try: 
     receiver = 'opensas@gmail.com'
 
     sender = 'mail_sender_account@yahoo.com'
@@ -24,7 +40,7 @@ mas informacion:
 
     subject = "informe de priv-translate"
 
-    send_mail(sender, receiver, subject, text, smtp, account, password)
+    send_mail(sender, receiver, subject, texto, smtp, account, password)
 
     return 0
 

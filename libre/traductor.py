@@ -58,7 +58,7 @@ def leer_parametros():
 frase = leer_parametros()
 
 # traducimos la frase
-frase_traducida = traducir("es", "en", frase)
+frase_traducida = traducir("es", "it", frase)
 
 # imprimimos la frase traducida
 print frase_traducida
