@@ -1,10 +1,3 @@
-notas:
-
-obama publica software libre
-https://github.com/opengovplatform/opengovplatform-DMS/tree/master/webapp/core
-
---
-
 plan para el taller
 
 0. explicar de qué se trata el taller

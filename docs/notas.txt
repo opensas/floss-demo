@@ -2,3 +2,31 @@ notas:
 
 obama publica software libre
 https://github.com/opengovplatform/opengovplatform-DMS/tree/master/webapp/core
+
+idea para otro ejercicio:
+
+tomar estas frases:
+
+http://opensource.com/life/12/12/whats-your-favorite-open-source-phrase#comment-11082
+
+y unirla con una caracteristica del software libre
+
+Free as in beer
+
+Free as in speech
+
+Given enough eyeballs, all bugs are shallow
+
+Open source is like a recipe
+
+Release early, release often
+
+Patches happily accepted!
+
+"Software is like sex: it's better when it's free." - Linus Torvalds
+
+show me the code
+
+Here, have a copy. It's yours.
+
+free software, free society
