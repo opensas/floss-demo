@@ -66,6 +66,8 @@ def traducir(idioma_fuente, idioma_destino, texto):
 
   try:
 
+    setencoding()
+
     # intentamos acceder al servicio web de traducción
     respuesta, contenido = httplib2.Http().request(url)
 
@@ -81,3 +83,8 @@ def traducir(idioma_fuente, idioma_destino, texto):
 
   except:
     return "error al traducir el texto"
+
+def setencoding():
+  import sys
+  reload(sys)
+  sys.setdefaultencoding("utf-8")
