@@ -1,0 +1,20 @@
+rm -fr ~/sscarano
+rm -fr ~/opensas
+
+
+mkdir ~/sscarano
+mkdir ~/opensas
+
+rm -fr ~/.traductor1
+rm -fr ~/.traductor2
+
+mkdir ~/.traductor1
+mkdir ~/.traductor2
+
+cp -r ../libre/gpl_es.pdf ~/.traductor1/
+cp -r ../libre/leame.txt ~/.traductor1/
+cp -r ../libre/traductor ~/.traductor1/
+cp -r ../libre/traductor.py ~/.traductor1/
+cp -r ../libre/traductor_lib.py ~/.traductor1/
+
+cp -r ../librev2/traductor.py ~/.traductor2/
