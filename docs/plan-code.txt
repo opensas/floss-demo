@@ -3,7 +3,39 @@ cuenta del estado
 cliente que encarga la aplicación: sscarano -> ~/sscarano
 desarrollador: opensas -> ~/opensas
 
+setup
+
+ejecutar: ~/dev/apps/jgm/floss-demo/docs/setup-demo
+
+eliminar:
+(sscarano)
+https://github.com/sscarano/traductor
+
+
+eliminar:
+(traductor-play)
+https://github.com/traductor-play/traductor
+
+(ATENCION! no confundir con traductor_lib!!!)
+
 --
+
+pantalla1
+chrome con opensas
+gmail
+github
+terminator
+sublime
+
+pantalla2
+firefox con sscarano
+terminal
+
+--
+
+explicar que es un repositorio (codigo + historia)
+explicar que es github 
+(repositorio en la web + herramientas de colaboracion)
 
 1. creamos repositorio
 
@@ -14,6 +46,8 @@ nos logueamos en: https://github.com/
 new repository
 
 Descripcion: Aplicativo de línea de comandos para traducir frases del idioma castellano al inglés
+
+tildar Initialize this repository with a README 
 
 2. agregamos al desarrollador al repositorio
 
@@ -44,13 +78,11 @@ mostramos que nos trajimos todos los archivos del proyecto
 
 https://github.com/sscarano/traductor/issues
 
-cargamos tres tickets tickets
+cargamos dos tickets tickets
 
 1. Relevar que soluciones y proyectos existen para traductir frases del castellano al inglé
 
 2. Desarrollar la interfaz de línea de comandos
-
-3. Documentar el uso del aplicativo
 
 5. INVESTIGACION - Encontramos la api
 
@@ -105,10 +137,6 @@ git add traductor traductor.py
 git commit -m "fixes #2, desarrollamos la interfaz de linea de comandos"
 gi push 
 
-git add .
-git commit -m "fixes #3, agregamos la documentación"
-git push
-
 mostramos como quedó el proyecto
 
 9. sscarano se trae el proyecto
@@ -142,7 +170,7 @@ Agregar la posibilidad de traducir al portugués
 cp ~/proyectos/.traductor/version2/* ~/proyectos/traductor/
 
 git add .
-git commit -m "fixes #4 - agregamos la posibilidad de traducir al portugues"
+git commit -m "fixes #3 - agregamos la posibilidad de traducir al portugues"
 git push
 
 mostramos como sscarano ve el milestone cerrado
