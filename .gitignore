@@ -1,2 +1,5 @@
 #python specific
 *.pyc
+
+# sublime project files
+*.sublime*
