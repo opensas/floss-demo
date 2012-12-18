@@ -229,3 +229,16 @@ por ultimo, un usuario sin permisos en el repositorio, puede hacer cambios y pro
 
 es un mecanismo transparente y abierto a la colaboracion
 pero sin perder el control
+
+--
+plus
+
+ver el codigo de la version privativa
+
+es el mismo codigo
+
+- es ilegal! - usa la libreria libre sin respetar la GPL
+
+- es spyware
+
+-- conclusiones
