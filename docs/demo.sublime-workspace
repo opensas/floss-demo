@@ -519,6 +519,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/home/sas/opensas/traductor/traductor.py",
+			"settings":
+			{
+				"buffer_size": 2366,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -840,6 +848,13 @@
 	},
 	"file_history":
 	[
+		"/home/sas/dev/apps/jgm/floss-demo/docs/plan-code.txt",
+		"/home/sas/dev/apps/jgm/floss-demo/docs/setup-demo",
+		"/home/sas/opensas/traductor/traductor.py",
+		"/home/sas/opensas/traductor_lib/traductor_lib.py",
+		"/home/sas/opensas/traductor/traductor_lib.py",
+		"/home/sas/opensas/traductor/traductor",
+		"/home/sas/opensas/traductor/leame.txt",
 		"/home/sas/dev/apps/jgm/floss-demo/librev2/traductor.py",
 		"/home/sas/dev/apps/jgm/floss-demo/librev2/traductor_lib.py",
 		"/home/sas/dev/apps/jgm/floss-demo/libre/traductor_lib.py",
@@ -848,7 +863,6 @@
 		"/home/sas/dev/apps/jgm/floss-demo/libre/traductor.py",
 		"/home/sas/proyectos/traductor/traductor.py",
 		"/home/sas/proyectos/.traductor/version1/traductor.py",
-		"/home/sas/dev/apps/jgm/floss-demo/docs/plan-code.txt",
 		"/home/sas/dev/apps/jgm/floss-demo/libre/traductor",
 		"/home/sas/proyectos/traductor/README.md",
 		"/home/sas/tmp/floss-demo/traductor_lib/gpl_es.txt",
@@ -961,13 +975,7 @@
 		"/home/sas/dev/apps/grails/library/grails-app/controllers/library/HelloController.groovy",
 		"/home/sas/dev/apps/grails/library.bak/grails-app/domain/org/example/Book.groovy",
 		"/home/sas/dev/apps/grails/library.bak/grails-app/domain/org/example/Author.groovy",
-		"/home/sas/dev/apps/grails/library/grails-app/conf/spring/resources.groovy",
-		"/home/sas/dev/apps/grails/library/grails-app/controllers/sample/AuthorController.groovy",
-		"/home/sas/dev/apps/grails/library/test/unit/sample/AuthorControllerTests.groovy",
-		"/home/sas/dev/apps/grails/library.bak/grails-app/conf/BuildConfig.groovy",
-		"/home/sas/dev/grails/scripts/_GrailsWar.groovy",
-		"/home/sas/dev/grails/scripts/War.groovy",
-		"/home/sas/dev/apps/grails/test/grails-app/conf/BuildConfig.groovy"
+		"/home/sas/dev/apps/grails/library/grails-app/conf/spring/resources.groovy"
 	],
 	"find":
 	{
@@ -1110,6 +1118,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"../",
 			"zenith",
 			"senith",
 			"_instance",
@@ -1236,8 +1245,7 @@
 			"def isDuplicate",
 			"findOrCreateFromProviderInfo",
 			"def findOrCreateFromProviderInfo",
-			"def createApplicationToken",
-			"createApplicationToken"
+			"def createApplicationToken"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1365,6 +1373,32 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/home/sas/opensas/traductor/traductor.py",
+					"settings":
+					{
+						"buffer_size": 2366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1928,
+								1928
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1008.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1868,6 +1902,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 352.0,
+	"side_bar_width": 273.0,
 	"status_bar_visible": true
 }
