@@ -30,3 +30,37 @@ show me the code
 Here, have a copy. It's yours.
 
 free software, free society
+
+--
+
+Taller Práctico de Software Libre
+
+
+A menudo cuando intentamos explicar las ventajas del uso de software libre, nos damos cuenta que conceptos que para nosotros son muy claros y concretos, resultan difíciles de asimilar para personas que no se encuentran interiorizadas en las prácticas de sistemas.
+
+Tal es el caso de las cuatro libertades básicas del software libre, las cuales parecen una declaración de principios (y sin duda lo son) pero cuya aplicación práctica parece ser algo abstracto y de difícil aplicación para los que no han participado de cerca en proyectos libres.
+
+Es por eso que desde el Grupo de Trabajo de Software Libre de la Agenda Digital, nos hemos propuesto crear un "Taller práctico de Software libre" en el cual podamos ver todas estas dimensiones del software libre en acción, con un ejemplo real y concreto, lo suficientemente simple como para poder abarcarlo en un encuentro, que dé cuenta de las prácticas y herramientas que a diario son utilizadas por miles de profesionales de sistemas en todo el mundo para desarrollar los proyectos de software libre que usamos a diario.
+
+El taller será de interés para todo ciudadano que quiera conocer y experimentar de primera mano el proceso de desarrollo de software libre, pero será de especial utilidad para los funcionarios públicos que tengan intervención en el proceso de decisión y compra de desarrollo de proyectos de Software Libre. Nos parece importante poner esta información al alcance de quienes deben tomar intervención en este tipo de decisiones, para que comprendan todo lo que se pone en juego a la hora de decidir entre un desarrollo con software privativo y con software libre. Esperamos con ello contribuir a que puedan asumir con sólidos conocimientos la responsabilidad que como funcionarios públicos les corresponde en esta tarea.
+
+Para cumplir con este propósito partimos de un requerimiento que consiste en un aplicativo que nos permita traducir frases del idioma castellano al idioma inglés. Este aplicativo será encargado en primer término a un proveedor que lo desarrollará como software privativo, y luego a otro proveedor que lo hará bajo una licencia libre. 
+
+En ambas modalidades cubriremos las siguientes etapas:
+
+(agenda)
+
+- Diseño
+- Desarrollo 
+- Control de avance
+- Entrega
+- Licencia
+- Nuevos requerimientos
+
+En el caso particular del desarrollo con software libre, desarrollaremos la aplicación en vivo, mostrando las herramientas y metodologías que hoy se han vuelto estándar en el desarrollo de proyectos libres. Procuraremos mostrar en particular como las diversas dimensiones del software libre se encuentran hoy facilitadas y alentadas por estas prácticas y herramientas que han permitido el surgimiento de la revolución tecnológica que hoy estamos viviendo.
+
+A lo largo de este taller expondremos también varias "malas prácticas" que a veces vemos en los desarrollos de software privativo. De ninguna manera queremos con ello implicar que todas las empresas que desarrollan software privativo se comporten de esa manera, sino simplemente mostrar que la dinámica que impone el software privatico permite, y en muchos casos alientan, este tipo de prácticas.
+
+Dado que la actividad ha sido encarada como un taller, los participantes deberán completar una serie de ejercicios que los ayude a reflexionar acerca de los conceptos discutidos. No se espera que sepan programar, si bien aquéllos que se animen tendrán oportunidad de hacerlo, pero si que puedan analizar y evaluar de manera crítica documentos, procesos y conceptos, discutir con el resto de los participantes y exponer las conclusiones a las que arribaran.
+
+Por último nos gustaría aclarar que nuestra mirada no es desinteresada, comos abiertamente partidarios del uso del software libre. Sin embargo eso no implica que cedamos en lo más mínimo en nuestro afán de objetividad. El Software Libre presenta sobradas ventajas en términos tecnológicos, económicos, filosóficos y políticos, por lo que resulta inútil tergiversar la realidad para defender sus virtudes. Por el contrario, estamos convencidos de que la mejor manera de trabajar en pos del software libre, es hacer visible de una manera accesible para el resto de la comunidad la manera en que hoy en día, profesionales de todo el mundo, trabajan de manera abierta y colaborativa para producir software libre.
