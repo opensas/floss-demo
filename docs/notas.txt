@@ -97,6 +97,34 @@ analizar:
 
 
 
+--
+
+ventajas del software libre
+
+http://www.cenatic.es/sobre-el-software-libre/ventajas-del-software-libre
+
+Independencia del fabricante de software
+Gracias al tipo de licencia las Administraciones Públicas y las empresas usuarias pueden controlar el uso de la tecnología y tienen más libertad para diseñar su estrategia tecnológica futura.
+
+Ahorro de costes
+Gracias a la compartición, la reutilización y la ausencia de costes asociados a las licencias, se genera un ahorro significativo en el coste final de las aplicaciones, utilizando siempre un software 100% legal.
+
+Mayor seguridad y calidad del software
+Hacer público el código permite aportaciones de la Comunidad de Desarrolladores que contribuye de forma continua a la seguridad y la calidad del software, corrigiendo los errores detectados y haciendo evolucionar más rápido la aplicación.
+
+Desarrollo del sector TIC local
+Al tener acceso al código, las pymes del entorno pueden ofrecer servicios a la Administraciones Públicas y Empresas, pudiendo competir en mejores condiciones con otros operadores dominantes en el sector.
+
+Generación de valor en comunidad
+Usar software libre permite a las administraciones públicas y empresas compartir y reutilizar aplicaciones, colaborando entre sí, con el sector tecnológico y con la Comunidad de Desarrolladores.
+
+--
+
+otra actividades:
+
+decalogo_liberacion_extendido.pdf del pais vasco
+
+comparar con el taller, a favor / en contra
 
 
 
