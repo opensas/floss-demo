@@ -1,6 +1,6 @@
 # traductor v1.0
 # Utilidad de línea de comandos para traducir frases del castellano al inglés
-# Copyright (C) 2012, Graciela Defeo, gdefeo@gmail.com
+# Copyright (C) 2012, opensas, opensas@gmail.com
 # Consulte al final de este archivo para ver los detalles de la licencia
 
 Traductor es una utilidad de línea de comandos que le permite traducir frases del idioma castellano al idioma inglés.

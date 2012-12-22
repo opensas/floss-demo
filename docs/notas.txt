@@ -15,7 +15,13 @@ Free as in beer
 
 Free as in speech
 
+13. “'Free software' is a matter of liberty, not price. To understand the concept, you should think of 'free' as in 'free speech,' not as in 'free beer'.”
+-Richard M. Stallman
+
 Given enough eyeballs, all bugs are shallow
+Dados suficientes ojos, todos los errores serán obvios (ley de Linus)
+
+"Software is like sex: it's better when it's free." - Linus Torvalds
 
 Open source is like a recipe
 
@@ -23,12 +29,78 @@ Release early, release often
 
 Patches happily accepted!
 
-"Software is like sex: it's better when it's free." - Linus Torvalds
-
-show me the code
+Show me the code!
 
 Here, have a copy. It's yours.
 
 free software, free society
+Open source. Open minds. Open future.
+
+"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
+Linus Torvalds
+
+Research, Adopt, Adapt
+
+“Value your freedom or you will lose it, teaches history. 'Don't bother us with politics', respond those who don't want to learn.”
+-Richard M. Stallman
+
+2. “Software is like sex: it's better when it's free.”
+-Linus Torvalds
+
+10. "When it comes to software, I much prefer free software, because I have very seldom seen a program that has worked well enough for my needs, and having sources available can be a life-saver."
+-Linus Torvalds
+
 
 --
+
+idea para una actividad
+
+http://www.fedaro.info/archivos/guia_unesco/GSL.pdf
+
+pagina 57
+
+1) la confiabilidad y seguridad del sistema
+2) El acceso, control de la información y efecto red
+3) La transparencia con que se instrumenta todo el sistema de manejo de la información
+4) El costo de su implementación
+
+Ciclo del desarrollo libre:
+
+1) Estado: crea un repositorio publico y le da permisos de escritura a los desarrolladores
+
+3) Desarrollador: busca soluciones disponibles
+
+4) Desarrollador: analiza cómo están hechas las soluciones disponibles y elige cuáles utilizar
+
+5) Desarrollador: incluye en el proyecto las soluciones que utilizará, respetando las licencias en uso
+
+6) Desarrollador: trabaja localmente en su estación de trabajo, con independencia del repositorio central (gracias a git)
+
+7) Desarrollador: va subiendo sus cambios al repositorio central, donde son inmediatamente visibles para el Estado y para todo el público
+
+8) Estado: recibe notificación de cada cambio efectuado por el desarrollador, puede estudiarlos, analizarlos y aprender de ellos.
+
+9) Tercero: cualquier persona puede tener acceso al desarrollo en cualquier de sus etapas. Puede hacerse su propia copia, estudiarla, mejorarla y enviar un pedido al Estado para que incluya esas mejoras.
+
+10) Estado: 
+
+
+--
+
+IDEA:
+
+Proyecto de Ley en favor del software libre
+
+Hacerlo de manera colaborativa
+
+analizar:
+
+
+
+
+
+
+
+
+
+

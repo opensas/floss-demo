@@ -1,0 +1,191 @@
+cuenta del estado
+
+cliente que encarga la aplicación: sscarano -> ~/sscarano
+desarrollador: opensas -> ~/opensas
+
+setup ejecutar: ~/dev/apps/jgm/floss-demo/docs/setup-demo
+
+eliminar: (sscarano) https://github.com/sscarano/traductor
+
+eliminar: (traductor-play) https://github.com/traductor-play/traductor
+(ATENCION! no confundir con traductor_lib!!!)
+
+--
+pantalla1
+chrome con opensas
+gmail - github - terminator - sublime
+
+pantalla2
+firefox con sscarano
+terminal
+
+--
+explicar qu es un repositorio (codigo + historia)
+explicar que es github (repositorio en la web + herramientas de colaboracion)
+
+1. creamos repositorio: traductor
+(sscarano)
+
+nos logueamos en: https://github.com/
+new repository
+Descripcion: Aplicativo de línea de comandos para traducir frases del idioma castellano al inglés
+tildar Initialize this repository with a README 
+
+2. agregamos al desarrollador al repositorio
+settings
+collaborators
+add (opensas)
+
+(mostramos que a opensas le llegó un mail)
+
+3. el consultor clona el proyecto
+
+(opensas)
+nos logueamos y vamos a: https://github.com/
+mostramos que ya tenemos acceso al repositorio traductor-play/traductor
+vamos a https://github.com/sscarano/traductor
+
+cd ~/opensas
+git clone https://github.com/sscarano/traductor.git
+
+mostramos que nos trajimos todos los archivos del proyecto
+
+4. tickets
+
+https://github.com/sscarano/traductor/issues
+
+cargamos dos tickets tickets
+
+1. Relevar que soluciones y proyectos existen para traductir frases del castellano al inglé
+
+2. Desarrollar la interfaz de línea de comandos
+
+5. INVESTIGACION - Encontramos la api
+
+explicar diferencia entre interfaz de usuario y api
+http://mymemory.translated.net/
+http://mymemory.translated.net/api/get?q=hola%20amigos&langpair=es|en
+
+6. INVESTIGACION - Buscamos un proyecto libre que nos sirva
+
+Buscamos en github mymemory
+encontramos traductor_lib: https://github.com/traductor-play/traductor_lib
+verificamos la licencia y miramos el código
+
+7. clonamos traductor-lib
+
+cd ~/opensas
+git clone https://github.com/traductor-play/traductor_lib.git
+
+copiamos la libreria traductor_lib a nuestro proyecto
+
+y la commiteamos
+
+git add .
+git commit -m "fixes #1, agregamos la libreria traductor_lib"
+git push
+
+mostramos como el ticket se actualiza automáticamente
+y más importante, vemos como sscarano (quien nos contrata ve TODO en tiempo real)
+(y como este es un proyecto libre, todo el mundo puede hacerlo)
+
+8. completamos la version 1
+
+cp ~/.traductor1/* ~/opensas/traductor/
+
+git add traductor traductor.py
+git commit -m "fixes #2, desarrollamos la interfaz de linea de comandos"
+gi push 
+
+mostramos como quedó el proyecto
+
+9. sscarano se trae el proyecto
+
+cd ~/sscarano/
+git clone https://github.com/sscarano/traductor.git
+
+y lo prueba
+
+cd traductor
+./traductor "Finalizando el taller práctico de software libre."
+
+-- actividad: analizamos la licencia GPL --
+
+10. una modificación
+
+nuevo requerimiento: poder traducir ademas al portugues: pt
+
+11. cargamos el ticket
+
+(sscarano) new milestone: v1.1 Traducir al portugués
+
+new issue
+Agregar la posibilidad de traducir al portugués
+
+12. El desarrollador lo implementa
+
+cp ~/proyectos/.traductor/version2/* ~/proyectos/traductor/
+
+git add .
+git commit -m "fixes #3 - agregamos la posibilidad de traducir al portugues"
+git push
+
+mostramos como sscarano ve el milestone cerrado
+y como ve los cambios que efectuó el desarrollador
+
+13. Colaboracion (crowdsourcing) sin perder el control
+
+¿Quién se anima a implementar la traducción al italiano? (el código es it)
+
+entramos como otro usuario y vamos a
+https://github.com/sscarano/traductor
+(lo buscamos por traductor)
+
+Hacemos la modificacion
+Agregamos soporte para traducción al italiano
+Y hacemos un pull-request
+
+14. Recibir el pull-request
+
+(sscarano):
+mostramos que hay un pull request esperando, lo aceptamos
+vamos a nuestra consola
+
+cd ~/sscarano/traductor
+git pull
+./traductor "Finalizando el taller práctico de software libre." -d it
+
+lo probamos
+
+--
+
+resumen:
+
+sscarano, que contrata un desarrollo libre crea su propio repositorio
+
+y lo agrega a opensas, el desarrollador, para que pueda escribir en el repositorio
+
+el desarrollador se clona el repositorio en su maquina
+
+el desarrollador encuentra un proyecto libre
+y tambien clona ese proyecto en su maquina
+
+el desarrollador trabaja en su maquina y cada vez que graba los cambios en el repostorio de github sscarano los puede ver, y bajarselos a su maquina para ir probanndolos
+
+por ultimo, un usuario sin permisos en el repositorio, puede hacer cambios y proponerlos, para que el dueño del repositorio los acepte o los rechace
+
+es un mecanismo transparente y abierto a la colaboracion
+pero sin perder el control
+
+--
+plus
+
+ver el codigo de la version privativa
+
+es el mismo codigo
+
+- es ilegal! - usa la libreria libre sin respetar la GPL
+
+- es spyware
+
+-- conclusiones

@@ -3,7 +3,7 @@
 
 # traductor v1.0
 # Utilidad de línea de comandos para traducir frases del castellano al inglés
-# Copyright (C) 2012, Graciela Defeo, gdefeo@gmail.com
+# Copyright (C) 2012, opensas, opensas@gmail.com
 # Código disponible en https://github.com/opensas/floss-demo
 
 # traductor_lib v3.5
